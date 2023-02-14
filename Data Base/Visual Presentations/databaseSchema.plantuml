@@ -1,0 +1,53 @@
+@startuml dataBaseSchema
+
+!define primary_key(x) <b><color:#b8861b><&key></color> x</b>
+!define foreign_key(x) <color:#aaaaaa><&key></color> x
+!define column(x) <color:#efefef><&media-record></color> x
+!define table(x) entity x << (T, white) >>
+
+' 
+table( "Time-stamps" ) {
+  primary_key( UTC_Timestamp  ): Time stamp without time zone 
+  foreign_key( CAID ): Character array
+
+  column( "Minimum_dwell" ): Big int 
+  column( "local_timestamp"): Time stamp without time zone 
+}
+
+table("Device-Info"){
+  primary_key( UTC_Timestamp  ): Time stamp without time zone
+  foreign_key( CAID ): Character array
+
+  column(id_type): Character array 
+  column(brands): Character array
+}
+
+table("Address-location"){
+  primary_key( UTC_Timestamp  ): Time stamp without time zone
+  foreign_key( CAID ): Character array
+
+  column(top_category): Character array
+  column(sub_category): Character array
+  column(safegraph_place_id): Character array
+  column(location_name): Character array
+  column(geohash_5): Character array
+  column(naics_code): Big Integer
+  column(census_block_group): Character array
+  column(placekey_id): Character array
+}
+
+table( "Zone-location" ) {
+  primary_key( UTC_Timestamp  ): Time stamp without time zone
+  foreign_key( CAID ): Character array
+
+  column(stree_address): Character array
+  column(city): Character array
+  column(state): Character array
+  column(zip_code): Character array
+}
+
+"Time-stamps" }|--|| "Zone-location"
+"Zone-location" }|--|| "Device-Info"
+"Device-Info" }|--|| "Address-location"
+
+@enduml

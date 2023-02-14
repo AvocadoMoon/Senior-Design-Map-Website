@@ -10,29 +10,42 @@ GRANT ALL ON SCHEMA "Map Data" TO postgres;
 CREATE TABLE IF NOT EXISTS "map-data"."time-stamps"
 (
     utc_timestamp timestamp without time zone,
+    caid "char"[],
+    
+    minimum_dwell bigint,
     local_timestamp timestamp without time zone
 );
 
 CREATE TABLE IF NOT EXISTS "map-data"."device-info"(
     caid "char"[],
+    utc_timestamp timestamp without time zone,
+
     id_type "char"[],
     brands "char"[]
 );
 
-CREATE TABLE IF NOT EXISTS "map-data"."location"(
-    location_name "char"[],
-    naics_code bigint,
+CREATE TABLE IF NOT EXISTS "map-data"."zone-location"(
+    utc_timestamp timestamp without time zone,
+    caid "char"[],
+
     top_category "char"[],
     sub_category "char"[],
+    safegraph_place_id "char"[],
+    location_name "char"[],
+    geohash_5 "char"[],
+    naics_code bigint,
+    census_block_group "char"[],
+    placekey_id "char"[]
+);
+
+CREATE TABLE IF NOT EXISTS "map-data"."address-location"(
+    utc_timestamp timestamp without time zone,
+    caid "char"[],
+
     street_address "char"[],
     city "char"[],
     state "char"[],
     zip_code "char"[],
-    minimum_dwell bigint,
-    safegraph_place_id "char"[],
-    geohash_5 "char"[],
-    census_block_group "char"[],
-    placekey_id "char"[]
 );
 
 
