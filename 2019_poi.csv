@@ -1,0 +1,181 @@
+,date,top_category_POI,number_of_visit_that_day
+0,01/01/2019,"Museums, Historical Sites, and Similar Institutions",3343398
+1,01/01/2019,Restaurants and Other Eating Places,727004
+2,01/01/2019,Building Material and Supplies Dealers,23641
+3,01/01/2019,"General Merchandise Stores, including Warehouse Clubs and Supercenters",111705
+4,01/01/2019,Activities Related to Real Estate,22337
+5,01/01/2019,"Colleges, Universities, and Professional Schools",61393
+6,01/01/2019,Traveler Accommodation,184101
+7,01/01/2019,Other Amusement and Recreation Industries,643378
+8,01/01/2019,Gasoline Stations,126147
+9,01/01/2019,Religious Organizations,267758
+10,01/01/2019,Spectator Sports,36792
+11,01/01/2019,RV (Recreational Vehicle) Parks and Recreational Camps,2899
+12,01/01/2019,Grocery Stores,145898
+13,01/01/2019,Health and Personal Care Stores,62152
+14,01/01/2019,Automobile Dealers,57431
+15,01/01/2019,Death Care Services,81464
+16,01/01/2019,Other Information Services,12896
+17,01/01/2019,Other Miscellaneous Store Retailers,91802
+18,01/01/2019,"Promoters of Performing Arts, Sports, and Similar Events",114711
+19,01/01/2019,Specialty Food Stores,29934
+20,01/01/2019,Other Motor Vehicle Dealers,21649
+21,01/01/2019,"Justice, Public Order, and Safety Activities",28052
+22,01/01/2019,Nondepository Credit Intermediation,980
+23,01/01/2019,Shoe Stores,3775
+24,01/01/2019,Management of Companies and Enterprises,9324
+25,01/01/2019,Support Activities for Air Transportation,39463
+26,01/01/2019,Florists,36740
+27,01/01/2019,Wired and Wireless Telecommunications Carriers,10811
+28,01/01/2019,"Agencies, Brokerages, and Other Insurance Related Activities",17613
+29,01/01/2019,Other Personal Services,24872
+30,01/01/2019,"Office Supplies, Stationery, and Gift Stores",26993
+31,01/01/2019,Drinking Places (Alcoholic Beverages),63725
+32,01/01/2019,Electronics and Appliance Stores,33464
+33,01/01/2019,Bakeries and Tortilla Manufacturing,11602
+34,01/01/2019,Department Stores,16861
+35,01/01/2019,Lessors of Real Estate,15900
+36,01/01/2019,"Sporting Goods, Hobby, and Musical Instrument Stores",73179
+37,01/01/2019,Junior Colleges,7884
+38,01/01/2019,Specialized Freight Trucking,25319
+39,01/01/2019,Sound Recording Industries,2983
+40,01/01/2019,Administration of Economic Programs,2253
+41,01/01/2019,"Automotive Parts, Accessories, and Tire Stores",65515
+42,01/01/2019,Electronic and Precision Equipment Repair and Maintenance,8718
+43,01/01/2019,"Other Professional, Scientific, and Technical Services",17141
+44,01/01/2019,Postal Service,8298
+45,01/01/2019,"Coating, Engraving, Heat Treating, and Allied Activities",969
+46,01/01/2019,Offices of Real Estate Agents and Brokers,28459
+47,01/01/2019,Gambling Industries,22579
+48,01/01/2019,Support Activities for Road Transportation,10185
+49,01/01/2019,"Beer, Wine, and Liquor Stores",21052
+50,01/01/2019,Warehousing and Storage,9686
+51,01/01/2019,Remediation and Other Waste Management Services,700
+52,01/01/2019,Investigation and Security Services,393
+53,01/01/2019,Legal Services,2664
+54,01/01/2019,Personal Care Services,43469
+55,01/01/2019,"Jewelry, Luggage, and Leather Goods Stores",11853
+56,01/01/2019,Amusement Parks and Arcades,124785
+57,01/01/2019,Used Merchandise Stores,27137
+58,01/01/2019,Social Advocacy Organizations,1843
+59,01/01/2019,Clothing Stores,5719
+60,01/01/2019,Couriers and Express Delivery Services,5072
+61,01/01/2019,Household Appliance Manufacturing,899
+62,01/01/2019,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",14471
+63,01/01/2019,Consumer Goods Rental,9314
+64,01/01/2019,Other Schools and Instruction,18114
+65,01/01/2019,Drycleaning and Laundry Services,3444
+66,01/01/2019,Beverage Manufacturing,3802
+67,01/01/2019,Furniture Stores,18285
+68,01/01/2019,"Electric Power Generation, Transmission and Distribution",2864
+69,01/01/2019,Personal and Household Goods Repair and Maintenance,15600
+70,01/01/2019,Home Furnishings Stores,4531
+71,01/01/2019,Commercial and Industrial Machinery and Equipment Rental and Leasing,429
+72,01/01/2019,Depository Credit Intermediation,13932
+73,01/01/2019,Building Equipment Contractors,4793
+74,01/01/2019,Automotive Repair and Maintenance,6841
+75,01/01/2019,Special Food Services,12176
+76,01/01/2019,Book Stores and News Dealers,23648
+77,01/01/2019,"Data Processing, Hosting, and Related Services",12581
+78,01/01/2019,Activities Related to Credit Intermediation,5930
+79,01/01/2019,Taxi and Limousine Service,2456
+80,01/01/2019,"Machinery, Equipment, and Supplies Merchant Wholesalers",10434
+81,01/01/2019,Lawn and Garden Equipment and Supplies Stores,918
+82,01/01/2019,Automotive Equipment Rental and Leasing,4401
+83,01/01/2019,Utility System Construction,1373
+84,01/01/2019,Building Finishing Contractors,6782
+85,01/01/2019,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",949
+86,01/01/2019,Other Financial Investment Activities,5589
+87,01/01/2019,"Foundation, Structure, and Building Exterior Contractors",4434
+88,01/01/2019,Motion Picture and Video Industries,5540
+89,01/01/2019,Other Transit and Ground Passenger Transportation,898
+90,01/01/2019,Other Miscellaneous Manufacturing,555
+91,01/01/2019,Waste Treatment and Disposal,496
+92,01/01/2019,Petroleum and Petroleum Products Merchant Wholesalers,414
+93,01/01/2019,Other Wood Product Manufacturing,96
+94,01/01/2019,Support Activities for Crop Production,270
+95,01/01/2019,Apparel Accessories and Other Apparel Manufacturing,119
+96,01/01/2019,Business Support Services,257
+97,01/01/2019,Miscellaneous Durable Goods Merchant Wholesalers,1003
+98,01/01/2019,Employment Services,864
+99,01/01/2019,Technical and Trade Schools,1440
+100,01/01/2019,Waste Collection,175
+101,01/01/2019,Residential Building Construction,63
+102,01/01/2019,Grantmaking and Giving Services,1666
+103,01/01/2019,Direct Selling Establishments,639
+104,01/01/2019,Printing and Related Support Activities,219
+105,01/01/2019,Drugs and Druggists' Sundries Merchant Wholesalers,2317
+106,01/01/2019,Services to Buildings and Dwellings,1402
+107,01/01/2019,Civic and Social Organizations,649
+108,01/01/2019,Miscellaneous Nondurable Goods Merchant Wholesalers,473
+109,01/01/2019,Electrical Equipment Manufacturing,43
+110,01/01/2019,Lumber and Other Construction Materials Merchant Wholesalers,355
+111,01/01/2019,Footwear Manufacturing,14
+112,01/01/2019,Professional and Commercial Equipment and Supplies Merchant Wholesalers,92
+113,01/01/2019,"Greenhouse, Nursery, and Floriculture Production",699
+114,01/01/2019,Grocery and Related Product Merchant Wholesalers,401
+115,01/01/2019,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,187
+116,01/01/2019,Support Activities for Water Transportation,2979
+117,01/01/2019,Glass and Glass Product Manufacturing,425
+118,01/01/2019,Travel Arrangement and Reservation Services,87
+119,01/01/2019,"Architectural, Engineering, and Related Services",184
+120,01/01/2019,Cable and Other Subscription Programming,264
+121,01/01/2019,Interurban and Rural Bus Transportation,198
+122,01/01/2019,Motor Vehicle Manufacturing,311
+123,01/01/2019,Clay Product and Refractory Manufacturing,34
+124,01/01/2019,Freight Transportation Arrangement,137
+125,01/01/2019,Steel Product Manufacturing from Purchased Steel,28
+126,01/01/2019,National Security and International Affairs,214
+127,01/01/2019,Rail Transportation,3077
+128,01/01/2019,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers,277
+129,01/01/2019,General Rental Centers,53
+130,01/01/2019,Securities and Commodity Contracts Intermediation and Brokerage,37
+131,01/01/2019,"Executive, Legislative, and Other General Government Support",5117
+132,01/01/2019,Plastics Product Manufacturing,1
+133,01/01/2019,Chemical and Allied Products Merchant Wholesalers,228
+134,01/01/2019,School and Employee Bus Transportation,3
+135,01/01/2019,Insurance Carriers,94
+136,01/01/2019,Natural Gas Distribution,61
+137,01/01/2019,"Scenic and Sightseeing Transportation, Land",45
+138,01/01/2019,Other Support Services,20
+139,01/01/2019,Metal and Mineral (except Petroleum) Merchant Wholesalers,13
+140,01/01/2019,"Management, Scientific, and Technical Consulting Services",19
+141,01/01/2019,Semiconductor and Other Electronic Component Manufacturing,12
+142,01/01/2019,Scheduled Air Transportation,11
+143,01/01/2019,Business Schools and Computer and Management Training,40
+144,01/01/2019,Hardware Manufacturing,7
+145,01/01/2019,Farm Product Raw Material Merchant Wholesalers,15
+146,01/01/2019,"Paint, Coating, and Adhesive Manufacturing",25
+147,01/01/2019,Aerospace Product and Parts Manufacturing,3847
+148,01/01/2019,Converted Paper Product Manufacturing,14
+149,01/01/2019,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",4
+150,01/01/2019,"Pulp, Paper, and Paperboard Mills",21
+151,01/01/2019,Other Animal Production,1
+152,01/01/2019,"Highway, Street, and Bridge Construction",5
+153,01/01/2019,"Arts, Entertainment, and Recreation",6
+154,01/01/2019,Administration of Human Resource Programs,38
+155,01/01/2019,Architectural and Structural Metals Manufacturing,8
+156,01/01/2019,Urban Transit Systems,4
+157,01/01/2019,Performing Arts Companies,203
+158,01/01/2019,Other Investment Pools and Funds,3
+159,01/01/2019,Sawmills and Wood Preservation,10
+160,01/01/2019,Educational Support Services,13046
+161,01/01/2019,"Agriculture, Construction, and Mining Machinery Manufacturing",3
+162,01/01/2019,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",2
+163,01/01/2019,Other Support Activities for Transportation,2
+164,01/01/2019,Medical Equipment and Supplies Manufacturing,3
+165,01/01/2019,"Veneer, Plywood, and Engineered Wood Product Manufacturing",10
+166,01/01/2019,Other Food Manufacturing,13
+167,01/01/2019,Support Activities for Mining,1
+168,01/01/2019,Scientific Research and Development Services,2
+169,01/01/2019,Insurance and Employee Benefit Funds,2
+170,01/01/2019,"Advertising, Public Relations, and Related Services",3
+171,01/01/2019,Other Fabricated Metal Product Manufacturing,3
+172,01/01/2019,"Independent Artists, Writers, and Performers",15
+173,01/01/2019,Other Transportation Equipment Manufacturing,3
+174,01/01/2019,General Freight Trucking,3
+175,01/01/2019,"Deep Sea, Coastal, and Great Lakes Water Transportation",7
+176,01/01/2019,"Business, Professional, Labor, Political, and Similar Organizations",6
+177,01/01/2019,Petroleum and Coal Products Manufacturing,1
+178,01/01/2019,Alumina and Aluminum Production and Processing,27
+179,01/01/2019,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",1
