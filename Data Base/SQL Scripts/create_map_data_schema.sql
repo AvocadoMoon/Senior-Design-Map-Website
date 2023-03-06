@@ -45,7 +45,7 @@ CREATE TABLE IF NOT EXISTS "map-data"."address-location"(
     street_address "char"[],
     city "char"[],
     state "char"[],
-    zip_code "char"[],
+    zip_code "char"[]
 );
 
 
