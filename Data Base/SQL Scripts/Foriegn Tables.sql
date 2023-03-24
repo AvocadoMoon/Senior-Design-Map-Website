@@ -3,9 +3,9 @@ CREATE EXTENSION IF NOT EXISTS file_fdw;
 CREATE SERVER IF NOT EXISTS veraset_data FOREIGN DATA WRAPPER file_fdw;
 
 CREATE SCHEMA IF NOT EXISTS "map-data"
-    AUTHORIZATION postgres;
+    AUTHORIZATION db_user;
 
-GRANT USAGE ON SCHEMA "map-data" TO pg_read_all_data;
+GRANT USAGE ON SCHEMA "map-data" TO read_sdp;
 
 GRANT ALL ON SCHEMA "map-data" TO postgres;
 
