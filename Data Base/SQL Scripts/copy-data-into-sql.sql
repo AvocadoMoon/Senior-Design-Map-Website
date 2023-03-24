@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS "map-data"."all-data"(
     geohash_5 text,
     census_block_group text,
     placekey text
-)
+);
 
 COPY "map-data"."all-data" 
 FROM "D:\Home\School\CS\3 Concentration and High Level Courses\CS Senior Design\Senior-Design-Map-Website\testCSV.csv"
