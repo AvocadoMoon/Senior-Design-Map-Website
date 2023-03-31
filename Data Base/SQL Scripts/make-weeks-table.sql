@@ -5,8 +5,7 @@ GRANT USAGE ON SCHEMA "map-data" TO read_sdp;
 
 GRANT ALL ON SCHEMA "map-data" TO postgres;
 
-CREATE TABLE IF NOT EXISTS "map-data"."all-data"(
-    csv_index int,
+CREATE TABLE IF NOT EXISTS "map-data"."weeks-data"(
     utc_timestamp text,
     local_timestamp text,
     caid text,
@@ -26,9 +25,3 @@ CREATE TABLE IF NOT EXISTS "map-data"."all-data"(
     census_block_group text,
     placekey text
 );
-
-COPY "map-data"."all-data" 
-FROM "D:\Home\School\CS\3 Concentration and High Level Courses\CS Senior Design\Senior-Design-Map-Website\testCSV.csv"
-NULL "NULL"
-DELIMITER ","
-CSV HEADER;
