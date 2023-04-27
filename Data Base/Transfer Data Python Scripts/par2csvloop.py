@@ -5,6 +5,8 @@ import pandas as pd
 cwd = os.getcwd()
 sep = os.sep
 
+folders = []
+
 for i in range (1, 7):
     # Set the directory path
     directory = f"D:{sep}Home\School\CS{sep}3 Concentration and High Level Courses\CS Senior Design\Feb 2023\{i:02d}"
